@@ -26,7 +26,7 @@ final class Config {
 	 * Сервер БП: корисничко име
 	 * @var string
 	 */
-	const DB_USER = 'root';
+	const DB_USER = '';
 
 	/**
 	 * Сервер БП: лозинка
